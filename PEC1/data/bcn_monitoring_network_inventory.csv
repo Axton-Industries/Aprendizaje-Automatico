@@ -1,0 +1,383 @@
+id,name,latitude,longitude,point_type
+43,Barcelona - Eixample,41.3853,2.1538,air_quality_station
+44,Barcelona - Gràcia,41.3987,2.1534,air_quality_station
+50,Barcelona - Ciutadella,41.3864,2.1874,air_quality_station
+54,Barcelona - Vall Hebron,41.4261,2.148,air_quality_station
+57,Barcelona - Palau Reial,41.3875,2.1151,air_quality_station
+58,Barcelona - Observatori Fabra,41.41843,2.1239,air_quality_station
+60,Barcelona - Navas,41.4159,2.1871,air_quality_station
+1,Diagonal (Ronda de Dalt a Doctor Marañón),41.38291,2.106769,traffic_section
+10,Diagonal (Francesc Macià a Entença),41.391747,2.140588,traffic_section
+100,Mitre (Pl. Lesseps a Balmes),41.405624,2.145408,traffic_section
+101,Travessera de Gràcia (Pl. Francesc Macià a Aribau),41.39422,2.146636,traffic_section
+102,Travessera de Gràcia (Aribau a Via Augusta),41.397182,2.151263,traffic_section
+103,Diagonal (Pl. Francesc Macià a Balmes),41.39399,2.149962,traffic_section
+104,Diagonal (Balmes a Pl. Francesc Macià),41.394142,2.149854,traffic_section
+105,Diagonal (Balmes a Pl Joan Carles I),41.395817,2.157166,traffic_section
+106,Diagonal (Pl. Joan Carles I a Balmes),41.3962,2.15791,traffic_section
+107,Numància (Diagonal a Travessera de les Corts),41.38819,2.133956,traffic_section
+108,Numància (Travessera de les Corts a Berlin),41.385075,2.13714,traffic_section
+109,Numància (Berlin a Pl. Països Catalans),41.381832,2.140733,traffic_section
+11,González Tablas (Av. Esplugues a Av. Diagonal),41.3855,2.109088,traffic_section
+110,Tarragona (Pl. Països Catalans a Aragó),41.379772,2.143595,traffic_section
+111,Tarragona (Aragó a Pl.Espanya),41.376186,2.148251,traffic_section
+112,Entença (Gran Via a Aragó),41.379223,2.151162,traffic_section
+113,Entença (Aragó a Av. Roma),41.381367,2.148308,traffic_section
+114,Entença (Av. Roma a Josep Tarradellas),41.383915,2.144899,traffic_section
+115,Entença (Josep Tarradellas a Travessera de les Corts),41.387478,2.140542,traffic_section
+116,Entença (Travessera de les Corts a Diagonal),41.389923,2.138031,traffic_section
+117,Urgell (Gran Via a Aragó),41.383484,2.156805,traffic_section
+119,Av. Sarrià (Urgell a Diagonal),41.390507,2.143885,traffic_section
+12,Av. Esplugues (Ronda de Dalt a Av. Pedralbes),41.390484,2.109718,traffic_section
+120,Aribau (Pl. Universitat a Aragó),41.386948,2.161289,traffic_section
+121,Aribau (Aragó a Diagonal),41.39129,2.155532,traffic_section
+122,Balmes (Diagonal a Aragó),41.392548,2.158359,traffic_section
+123,Balmes (Aragó a Gran Via),41.38863,2.16354,traffic_section
+124,Passeig de Gràcia (Gran Via a Aragó),41.390965,2.16665,traffic_section
+125,Passeig de Gràcia (Aragó a Pl. Joan Carles I),41.394386,2.162386,traffic_section
+126,Travessera de les Corts (Av. Sarrià a Entença),41.390163,2.140585,traffic_section
+127,Travessera de les Corts (Entença a Numància),41.38798,2.137045,traffic_section
+128,Travessera de les Corts (Numància a Carles III),41.384533,2.131452,traffic_section
+13,Av. Esplugues (Av. Pedralbes a Ronda de Dalt),41.39031,2.109323,traffic_section
+131,París (Josep Tarradelles a Urgell),41.38775,2.145426,traffic_section
+132,París (Urgell a Balmes),41.39246,2.151669,traffic_section
+133,Carrer de Sants (Carles III a Premià),41.375374,2.134819,traffic_section
+134,Carrer de Sants (Premià a Carles III),41.37542,2.134797,traffic_section
+14,Pg. Reina Elisenda (Av. Pedralbes a Via Augusta),41.397285,2.116983,traffic_section
+140,Mallorca (Passeig de Gràcia a Aribau),41.391926,2.160017,traffic_section
+141,Mallorca (Aribau a Urgell),41.3882,2.155091,traffic_section
+142,València (Urgell a Balmes),41.3882,2.157347,traffic_section
+143,València ( Balmes a Pau Claris),41.392452,2.163003,traffic_section
+144,Aragó (Pau Claris a Balmes),41.39161,2.164119,traffic_section
+145,Aragó (Balmes a Urgell),41.387054,2.158028,traffic_section
+147,Passeig de la Zona Franca (Pl. Cerdà a Foc),41.36264,2.137001,traffic_section
+148,Passeig de la Zona Franca (Foc a Pl. Cerdà),41.360573,2.138858,traffic_section
+149,Passeig de la Zona Franca (Foc a Ronda del Litoral),41.35299,2.144128,traffic_section
+15,Pg. Reina Elisenda (Via Augusta a Av. Pedralbes),41.397655,2.11757,traffic_section
+150,Passeig de la Zona Franca (Ronda del Litoral a Foc),41.35306,2.144287,traffic_section
+151,Gran Via (Pl. Cerdà a Moianés),41.367367,2.139167,traffic_section
+152,Gran Via (Moianés a Pl. Cerdà),41.36756,2.138988,traffic_section
+153,Gran Via (Moianés a Pl. Espanya),41.372257,2.145654,traffic_section
+154,Gran Via (Pl. Espanya a Moianés),41.372463,2.145474,traffic_section
+155,Gran Via (Pl. Espanya a Entença),41.37608,2.15064,traffic_section
+156,Gran Via (Entença a Urgell),41.38003,2.155733,traffic_section
+157,Gran Via (Urgell a Pl. Universitat),41.38407,2.161121,traffic_section
+158,Gran Via (Pl. Universitat a Passeig de Gràcia),41.38798,2.166491,traffic_section
+159,Sepúlveda (Ronda de Sant Antoni a Urgell),41.38267,2.161799,traffic_section
+16,Av. Pedralbes (Carretera Esplugues a Pg. Manuel Girona),41.39343,2.113811,traffic_section
+160,Sepúlveda (Urgell a Entença),41.37905,2.157001,traffic_section
+161,Sepúlveda (Entença a Paral.lel),41.376,2.152927,traffic_section
+162,Paral.lel (Pl. Espanya a Entença),41.375107,2.151874,traffic_section
+163,Paral.lel (Entença a Pl. Espanya),41.375027,2.151858,traffic_section
+164,Paral.lel (Entença a Calàbria),41.375053,2.157405,traffic_section
+165,Paral.lel (Calàbria a Entença),41.374977,2.15739,traffic_section
+166,Paral.lel (Calàbria a Ronda de Sant Pau),41.375015,2.164323,traffic_section
+167,Paral.lel (Ronda de Sant Pau a Calàbria),41.37494,2.164323,traffic_section
+168,Paral.lel (Ronda de Sant Pau a Josep Carner),41.37471,2.172947,traffic_section
+169,Paral.lel (Josep Carner a Ronda de Sant Pau),41.37458,2.172843,traffic_section
+17,Av. Pedralbes (Pg. Manuel Girona a Av. Esplugues),41.39375,2.11341,traffic_section
+170,Entença (Paral.lel a Gran Via),41.376095,2.155165,traffic_section
+171,Ronda de Sant Pau (Paral.lel a Ronda de Sant Antoni),41.376244,2.166283,traffic_section
+172,Urgell (Ronda de Sant Pau a Gran Via),41.380394,2.160871,traffic_section
+175,Pelai (Pl. Universitat a Balmes),41.385826,2.166072,traffic_section
+176,Balmes (Gran Via a Pl. Catalunya),41.38695,2.165781,traffic_section
+177,Ronda Universitat (Pl. Urquinaona a Pl. Universitat),41.38739,2.168502,traffic_section
+178,Fontanella (Pl. Catalunya a Pl. Urquinaona),41.387566,2.17197,traffic_section
+179,Passeig de Gràcia (Pl. Catalunya a Gran Via),41.388996,2.169055,traffic_section
+18,Av. Pedralbes (Pg. Manuel Girona a Pl. Pius XII),41.3882,2.121362,traffic_section
+180,Pau Claris (Còrsega a Mallorca),41.39595,2.162866,traffic_section
+181,Pau Claris (Mallorca a Aragó),41.394165,2.165251,traffic_section
+182,Pau Claris (Aragó a Gran Via),41.39198,2.168142,traffic_section
+183,Pau Claris (Gran Via a Pl. Urquinaona),41.389736,2.171104,traffic_section
+184,Via Laietana (Pl. Uruiqnaona a Jaume I),41.386215,2.175739,traffic_section
+186,Via Laietana (Jaume I a Pl. Antonio López),41.382668,2.180408,traffic_section
+188,Roger de Llúria (Pl. Urquinaona a Aragó),41.39193,2.170465,traffic_section
+189,Roger de Llúria (Aragó a Diagonal),41.39574,2.165404,traffic_section
+19,Av. Pedralbes (Pl. Pius XII a Pg. Manuel Girona),41.388264,2.121462,traffic_section
+192,Passeig de Sant Joan (Pl. Joanic a Còrsega),41.40306,2.164459,traffic_section
+194,Passeig de Sant Joan (Còrsega a Pl. Verdaguer),41.40042,2.167962,traffic_section
+196,Passeig de Sant Joan (Pl. Verdaguer a Pl. Tetuan),41.396034,2.173568,traffic_section
+197,Passeig de Sant Joan (Pl. Tetuan a Pl. Verdaguer),41.39672,2.173532,traffic_section
+198,Passeig de Sant Joan (Pl. Tetuan a Passeig Lluís Companys),41.3933,2.177256,traffic_section
+199,Passeig de Sant Joan (Passeig Lluís Companys a Pl. Tetuan),41.393562,2.177805,traffic_section
+2,Diagonal (Doctor Marañón a Ronda de Dalt),41.383167,2.106769,traffic_section
+20,Av. Foix (Ronda de Dalt a Pg. Reina Elisenda),41.399883,2.11616,traffic_section
+200,Passeig Lluís Companys (Passeig de Sant Joan a Passeig de Pujades),41.390247,2.180976,traffic_section
+201,Passeig Lluís Companys (Passeig de Pujades a Passeig de Sant Joan),41.390785,2.181737,traffic_section
+203,Sardenya (Pl. Sanllehy a Pi i Margall),41.411514,2.163071,traffic_section
+204,Sardenya (Pi i Margall a Maria Claret),41.408585,2.166496,traffic_section
+205,Sardenya (Maria Claret a Aragó),41.40391,2.172657,traffic_section
+206,Sardenya (Aragó a Gran Via),41.3996,2.178351,traffic_section
+207,Marina (Pl. Voluntaris a Av. Icària),41.388565,2.195262,traffic_section
+208,Marina (Av. Icària a Av. Meridiana),41.393684,2.18864,traffic_section
+209,Marina (Av. Meridiana a Gran Via),41.395603,2.186081,traffic_section
+21,Av. Foix (Pg. Reina Elisenda a Ronda de Dalt),41.39975,2.116565,traffic_section
+210,Marina (Gran Via a Diagonal),41.4006,2.179368,traffic_section
+211,Lepant (Ronda Guinardó a Maria Claret),41.410572,2.168624,traffic_section
+216,Padilla (Maria Claret a Ronda Guinardó),41.411213,2.169948,traffic_section
+217,Av. Estatut de Catalunya (Ronda de Dalt a Av. Can Marcet),41.435444,2.152854,traffic_section
+218,Av. Estatut de Catalunya (Av. Can Marcet a Ronda de Dalt),41.435814,2.153136,traffic_section
+219,Av. Estatut de Catalunya (Av. Can Marcet a Lisboa),41.431576,2.154193,traffic_section
+22,Av. Foix (Pg. Reina Elisenda a Pg. Manuel Girona),41.395138,2.12058,traffic_section
+220,Av. Estatut de Catalunya (Lisboa a Av. Can Marcet),41.43114,2.15534,traffic_section
+221,Rambla del Carmel (Lisboa a Túnel de la Rovira),41.42647,2.157559,traffic_section
+222,Ciències (Túnel de la Rovira a Lisboa),41.426186,2.158077,traffic_section
+223,Túnel de la Rovira (Rambla del Carmel a Ronda Guinardó),41.417435,2.162755,traffic_section
+224,Túnel de la Rovira (Ronda Guinardó a Rambla del Carmel),41.416832,2.164047,traffic_section
+227,Tajo (Lisboa a Passeig Maragall),41.429607,2.160642,traffic_section
+228,Tajo (Passeig Maragall a Lisboa),41.42966,2.160457,traffic_section
+229,Pg. Maragall (Tajo a Av. Borbó),41.427284,2.168318,traffic_section
+23,Av. Foix (Pg. Manuel Girona a Pg. Reina Elisenda),41.394802,2.120797,traffic_section
+230,Pg. Maragall (Av. Borbó a Tajo),41.42711,2.169282,traffic_section
+231,Fabra i Puig (Tajo a Pl. Virrei Amat),41.43075,2.166753,traffic_section
+232,Fabra i Puig (Pl. Virrei Amat a Tajo),41.430805,2.16679,traffic_section
+233,Travessera de Dalt (Pl. Lesseps a Escorial),41.408455,2.152504,traffic_section
+234,Travessera de Dalt (Escorial a Pl. Lesseps),41.408802,2.152976,traffic_section
+235,Ronda Guinardó (Escorial a Túnel de la Rovira),41.412083,2.162554,traffic_section
+236,Ronda Guinardó (Túnel de la Rovira a Escorial),41.4122,2.162575,traffic_section
+237,Ronda Guinardó (Túnel de la Rovira a Oblit),41.41585,2.1734,traffic_section
+238,Can Ràbia (Rda. General Mitre a Av. Sarrià),41.3933,2.134223,traffic_section
+239,Pg. de Gràcia (Av. Diagonal a Aragó),41.394917,2.161411,traffic_section
+24,Pg. Manuel Girona (Pl. Prat de la Riba a Av. Pedralbes),41.39104,2.124259,traffic_section
+240,Pg. de Gràcia (Aragó a Gran Via),41.390263,2.167153,traffic_section
+242,Villarroel (Gran Via a Rda. Sant Antoni),41.386806,2.154712,traffic_section
+243,Av. Borbó (Pl. Virrei Amat a Passeig Maragall),41.427917,2.175131,traffic_section
+244,Passeig Maragall (Av. Borbó a Pl. Maragall),41.42277,2.178529,traffic_section
+245,Passeig Maragall (Pl. Maragall a Av. Borbó),41.422794,2.178601,traffic_section
+246,Passeig Maragall (Pl. Maragall a Indústria),41.418175,2.180617,traffic_section
+247,Passeig Maragall (Indústria a Pl. Maragall),41.418133,2.180672,traffic_section
+248,Còrsega (Passeig Maragall a Padilla),41.411427,2.179158,traffic_section
+250,Rosselló (Padilla a Freser),41.408306,2.177301,traffic_section
+251,Maria Claret (Av. Meridiana a Passeig de Maragall),41.418148,2.183674,traffic_section
+252,Còrsega (Padilla a Passeig de Sant Joan),41.40489,2.170474,traffic_section
+253,Còrsega (Passeig de Sant Joan a Pl. Joan Carles I),41.399223,2.162912,traffic_section
+254,Rosselló (Diagonal a Passeig de Sant Joan),41.399216,2.165156,traffic_section
+255,Rosselló (Passeig de Sant Joan a Padilla),41.404034,2.171577,traffic_section
+262,Mallorca (Clot a Meridiana),41.41362,2.188924,traffic_section
+265,Mallorca (Passeig de Sant Joan a Passeig de Gràcia),41.396523,2.166131,traffic_section
+266,València (Pau Claris a Passeig de Sant Joan),41.396275,2.168068,traffic_section
+267,València (Passeig de Sant Joan a Padilla),41.401398,2.174879,traffic_section
+268,València (Padilla a Meridiana),41.40734,2.182811,traffic_section
+269,València (Meridiana a Clot),41.411556,2.188438,traffic_section
+270,Guipúscoa (Bac de Roda a Meridiana),41.411705,2.19073,traffic_section
+271,Aragó (Meridiana a Cartagena),41.406986,2.184558,traffic_section
+272,Aragó (Cartagena a Diagonal),41.403057,2.179412,traffic_section
+273,Aragó (Diagonal a Passeig de Sant Joan),41.39904,2.174039,traffic_section
+274,Aragó (Passeig de Sant Joan a Pau Claris),41.39543,2.169227,traffic_section
+275,Gran Via (Passeig de Gràcia a Roger de Llúria),41.390354,2.169775,traffic_section
+276,Gran Via (Roger de Llúria a Pl. Tetuan),41.394028,2.175052,traffic_section
+277,Gran Via (Pl. Tetuan a Marina),41.395462,2.176702,traffic_section
+278,Gran Via (Marina a Pl de les Glòries),41.40197,2.185649,traffic_section
+28,Av. Joan XXIII (Pl. Pius XII a Av. Doctor Marañón),41.38269,2.121171,traffic_section
+281,Ronda de Sant Pere (Passeig de Sant Joan a Pl. Urquinaona),41.390213,2.176025,traffic_section
+283,Meridiana (Pl. de les Glòries a Marina),41.40132,2.186082,traffic_section
+285,Almogàvers (Marina a Passeig Lluís Companys),41.393898,2.185871,traffic_section
+29,Av. Joan XXIII (Av. Doctor Marañón a Pl. Pius XII),41.38289,2.121601,traffic_section
+290,Meridiana - Passeig de Pujades (Marina a Passeig Picasso),41.39297,2.186329,traffic_section
+291,Passeig de Colom (Pl. Portal de la Pau a Pl. Antonio López),41.37805,2.179755,traffic_section
+292,Passeig de Colom (Pl. Antonio López a Pl. Portal de la Pau),41.378773,2.179999,traffic_section
+293,Av. Marqués de l'Argentera (Pl. Antonio López a Passeig de Picasso),41.383522,2.184205,traffic_section
+295,Passeig Circumval.lació (Av. Marquès de l'Argentera a A. Icària),41.385174,2.188251,traffic_section
+297,Av. Icària (Marina a Jaume Vicens i Vives),41.391567,2.197585,traffic_section
+298,Av. Icària (Jaume Vicens i Vives a Marina),41.391747,2.19747,traffic_section
+3,Diagonal (Doctor Marañón a Pl. Pius XII),41.38558,2.117372,traffic_section
+30,Aristides Maillol (Av. Doctor Marañón a Travessera de les Corts),41.37917,2.11992,traffic_section
+301,Passeig de Valldaura (Pl. Karl Marx a Pl. Llucmajor),41.438396,2.173102,traffic_section
+302,Passeig de Valldaura (Pl. Llucmajor a Pl. Karl Marx),41.438908,2.171399,traffic_section
+303,Casanova (Rda. Sant Antoni a Gran Via),41.383434,2.161388,traffic_section
+304,Rocafort (Gran Via a Av. Paral·lel),41.37585,2.157867,traffic_section
+305,Via Júlia (Pl. Llucmajor a Ronda de Dalt),41.442287,2.177571,traffic_section
+306,Via Júlia (Ronda de Dalt a Pl. Llucmajor),41.442123,2.177226,traffic_section
+307,Doctor Pi i Molist (Pl. Madres Mayo a Pl. Virrei Amat),41.431812,2.173919,traffic_section
+308,Ramon Albó (Passeig Maragall a Escòcia),41.42666,2.177294,traffic_section
+309,Arnau d'Oms (Escòcia a Fabra i Puig),41.429523,2.177325,traffic_section
+31,Aristides Maillol (Travessera de les Corts a Av. Doctor Marañón),41.379314,2.119956,traffic_section
+311,Passeig Valldaura (Pl. Lucmajor a Meridiana),41.43843,2.176323,traffic_section
+312,Passeig Valldaura (Meridiana a Pl.Llucmajor),41.438805,2.177448,traffic_section
+313,Fabra i Puig (Meridiana a Pl. Virrei Amat),41.430206,2.178149,traffic_section
+314,Escòcia (Felip II a Meridiana),41.428677,2.180213,traffic_section
+315,Bac de Roda (Ronda Litoral a Pere IV),41.404015,2.20864,traffic_section
+316,Bac de Roda (Pere IV a Gran Via),41.410362,2.200234,traffic_section
+318,Felip II (Clot a Meridiana),41.418674,2.189167,traffic_section
+320,Meridiana (Pl. de les Glòries a Aragó),41.40459,2.187647,traffic_section
+321,Meridiana (Aragó a Pl. de les Glòries),41.404865,2.186398,traffic_section
+322,Meridiana (Aragó a Felip II),41.4146,2.187025,traffic_section
+323,Meridiana (Felip II a Aragó),41.414547,2.186771,traffic_section
+324,Meridiana (Felip II a Fabra i Puig),41.42522,2.18612,traffic_section
+325,Meridiana (Fabra i Puig a Felip II),41.42558,2.185637,traffic_section
+326,Meridiana (Fabra i Puig a Passeig Valldaura),41.431908,2.183143,traffic_section
+327,Meridiana (Passeig Valldaura a Fabra i Puig),41.43178,2.182895,traffic_section
+328,Meridiana (Passeig Valldaura a Ronda de Dalt),41.443302,2.186655,traffic_section
+329,Meridiana (Ronda de Dalt a Passeig Valldaura),41.443295,2.186428,traffic_section
+330,Passeig de Santa Coloma (Coronel Monasterio a Av. Meridiana),41.44472,2.18883,traffic_section
+331,Passeig de Torras i Bages (Passeig Santa Coloma a Sant Adrià),41.43776,2.191407,traffic_section
+332,Passeig de Torras i Bages (Sant Adrià a Passeig Santa Coloma),41.43774,2.191495,traffic_section
+334,Sant Adrià (Enric Sanchís a P. Torras i Bages),41.435574,2.198877,traffic_section
+339,Clot (Sagrera a Mallorca),41.415855,2.19106,traffic_section
+344,Santander - Cantàbria (Ronda Litoral a Pont del Treball),41.430664,2.204467,traffic_section
+346,Cantàbria (Gran Via a Pont del Treball),41.42019,2.20104,traffic_section
+349,Guipúscoa (Ronda del Litoral a Cantàbria),41.42539,2.208226,traffic_section
+35,Av. Madrid (Riera Blanca a Gran Via Carles III),41.377598,2.125973,traffic_section
+350,Guipúscoa (Cantàbria a Bac de Roda),41.41719,2.197897,traffic_section
+359,Rambla Prim (Gran Via a Pl. Llevant),41.41534,2.213877,traffic_section
+360,Rambla Prim (Pl. Llevant a Gran Via),41.41668,2.212692,traffic_section
+362,Passeig de Garcia Faria (Rambla de Prim a Bac de Roda),41.40668,2.217689,traffic_section
+363,Viladomat (Gran Via a Manso),41.378666,2.158689,traffic_section
+364,Viladomat (Manso a Av. Paral·lel),41.375687,2.162581,traffic_section
+365,Comte Borrell (Gran Via a Manso),41.379498,2.159828,traffic_section
+366,Comte Borrell (Manso a Av. Paral·lel),41.376038,2.164346,traffic_section
+367,Casanova (Mallorca a Av. Diagonal),41.39066,2.151963,traffic_section
+368,Casanova (Gran Via a Aragó),41.385307,2.158915,traffic_section
+37,Creu Coberta - Sants (Gran Via Carles III a Riera Blanca),41.37562,2.126057,traffic_section
+370,Londres (Aribau a Av. Sarrià),41.392303,2.149246,traffic_section
+371,Rosselló (Casanova a Balmes),41.391663,2.155213,traffic_section
+372,Rosselló (Balmes a Av. Diagonal),41.395203,2.159854,traffic_section
+374,Provença (Pg. Gràcia a Aribau),41.393116,2.159346,traffic_section
+375,Provença (Aribau a Comte d'Urgell),41.388893,2.153765,traffic_section
+376,Diputació (Av. Diagonal a Pg. Sant Joan),41.399033,2.178562,traffic_section
+377,Diputació (Pg. Sant Joan a Pg. de Gràcia),41.39322,2.170787,traffic_section
+378,Diputació (Pg. de Gràcia a Aribau),41.388462,2.164488,traffic_section
+379,Diputació (Aribau a Urgell),41.384777,2.159584,traffic_section
+387,Bailén (Av. Diagonal a Aragó),41.39767,2.169637,traffic_section
+388,Bailén (Aragó a Gran Via),41.395374,2.172669,traffic_section
+389,Nàpols (Av. Diagonal a Gran Via),41.39828,2.175581,traffic_section
+39,Via Augusta (Passeig Bonanova a Ronda de Dalt),41.4028,2.120097,traffic_section
+390,Pla de Palau (Pg. Isabel II a Dr. Aiguader),41.382214,2.184014,traffic_section
+391,Pg. Joan de Borbó (Pepe Rubianes a Dr. Aiguader),41.38042,2.187174,traffic_section
+393,Pla de Palau (Dr. Aiguader a Pg. Isabel II),41.382557,2.184852,traffic_section
+394,Llull (Sardenya a Badajoz),41.393562,2.192076,traffic_section
+395,Joan d'Àustria - Joan Miró (Pallars a Av. Icària),41.392345,2.192389,traffic_section
+396,Ramon Turró (Badajoz a Sardenya),41.392754,2.193392,traffic_section
+4,Diagonal (Pl. Pius XII a Doctor Marañón),41.385822,2.117281,traffic_section
+40,Via Augusta (Passeig Bonanova a Vergós),41.398674,2.125715,traffic_section
+401,Diagonal (Entença a Numància),41.390022,2.135028,traffic_section
+402,Diagonal (Entença a Numància),41.390236,2.134798,traffic_section
+403,Entença (Diagonal a Av Sarrià),41.39117,2.136741,traffic_section
+404,Marina (Meridiana a Av. Icària),41.39279,2.189375,traffic_section
+405,Marina (Av. Icària a Pl. Voluntaris),41.38847,2.195125,traffic_section
+408,Josep Carner (Miramar a Av. Paral.lel),41.37307,2.175879,traffic_section
+41,Via Augusta (Vergós a Passeig Bonanova),41.398865,2.125548,traffic_section
+410,Ronda Guinardó (Flors de Maig a Túnel de la Rovira),41.415604,2.172584,traffic_section
+413,Muntaner (Diagonal a Aragó),41.390633,2.154063,traffic_section
+414,Muntaner (Aragó a Ronda de Sant Antoni),41.385338,2.161098,traffic_section
+415,Guipúscoa (Meridiana a Bac de Roda),41.411602,2.190966,traffic_section
+416,Guipúscoa (Bac de Roda a Cantàbria),41.417015,2.198183,traffic_section
+417,Guipúscoa (Cantàbria a Ronda del Litoral),41.425175,2.208569,traffic_section
+418,Maria Claret (Passeig de Maragall a Lepant),41.4061,2.167685,traffic_section
+419,Maria Claret (Passeig de Maragall a Lepant),41.40618,2.167588,traffic_section
+42,Via Augusta (Vergós a Mitre),41.397766,2.130493,traffic_section
+422,Marina (Gran Via a Meridiana),41.39565,2.185581,traffic_section
+424,Diagonal (Bac de Roda a Pl. Glòries),41.405724,2.196061,traffic_section
+425,Diagonal (Bac de Roda a Rambla de Prim),41.40934,2.211514,traffic_section
+426,Diagonal (Rambla de Prim a Bac de Roda),41.40954,2.211327,traffic_section
+428,Av. Rio de Janeiro (Fabra i Puig a Passeig de Valldaura),41.43381,2.180363,traffic_section
+429,Av. Rio de Janeiro (Passeig de Valldaura a Meridiana),41.44124,2.183975,traffic_section
+43,Via Augusta (Mitre a Vergós),41.39783,2.13052,traffic_section
+430,Av. Rio de Janeiro (Meridiana a Passeig de Valldaura),41.44114,2.184074,traffic_section
+432,Ferran Junoy (Sant Adrià a Potosí),41.4375,2.19503,traffic_section
+435,Potosí (Ferran Junoy a Ronda Litoral),41.442806,2.200153,traffic_section
+437,Potosí (Torras i Bages a Ferran Junoy),41.44229,2.193734,traffic_section
+440,P. Fabra i Puig (P. Urrutia a Tajo),41.433,2.163544,traffic_section
+441,P. Fabra i Puig (Tajo a P. Urrutia),41.433006,2.163621,traffic_section
+442,Vergós (Via Augusta a Pl. Artós),41.396637,2.126489,traffic_section
+443,Vergós (Pl. Artós a Via Augusta),41.396843,2.126942,traffic_section
+444,P. Sant Joan Bosco (Pl. Prat de la Riba a Pl. Artós),41.394688,2.127091,traffic_section
+445,P. Sant Joan Bosco (Pl. Prat de la Riba a Pl. Artós),41.394764,2.127147,traffic_section
+449,P. Sant Antoni (Pl. Sants a Pl. Països Catalans),41.37857,2.138965,traffic_section
+45,Mitre (Pl. Prat de la Riba a Via Augusta),41.39557,2.133017,traffic_section
+450,Mallorca (Urgell a Entença),41.384407,2.150007,traffic_section
+451,Urgell (Pl. Francesc Macià a París),41.391346,2.146436,traffic_section
+452,Esteve Terradas (Pl. Alfonso Comín a Av. Vallcarca),41.414387,2.140178,traffic_section
+460,Camèlies (Escorial a Pl. de la Font Castellana),41.412445,2.161677,traffic_section
+461,Av. Mare Déu Montserrat (Pl. de la Font Castellana a Pl. Sanllehy),41.41432,2.163373,traffic_section
+469,Indústria (P. Sant Joan a Padilla),41.405846,2.169482,traffic_section
+47,Carles III (Pl. Maria Cristina a Pl. Prat de la Riba),41.390835,2.128604,traffic_section
+470,Indústria (Padilla a P. Maragall),41.411583,2.177004,traffic_section
+471,Navas de Tolosa (Pg. Maragall a Meridiana),41.418232,2.182888,traffic_section
+472,Navas de Tolosa (Meridiana a Aragó),41.413574,2.189101,traffic_section
+473,Bilbao (Aragó a Gran Via),41.41062,2.193095,traffic_section
+474,Trafalgar (Pl. Urquinaona a P. Lluís Companys),41.38973,2.176645,traffic_section
+475,Sardenya (Gran Via a Meridiana),41.395664,2.183534,traffic_section
+476,Sardenya - Trias Fargas (Meridiana a Dr. Aiguader),41.390278,2.190581,traffic_section
+477,Dr. Aiguader (Pl. Antonio López a Pl. Voluntaris),41.383232,2.188746,traffic_section
+478,Dr. Aiguader (Pl. Voluntaris a Pl. Antonio López),41.38304,2.187236,traffic_section
+479,Av. del Litoral (Pl. Voluntaris a Llacuna),41.39097,2.201415,traffic_section
+480,Salvador Espriu (Llacuna a Pl. dels Voluntaris),41.39181,2.201047,traffic_section
+485,P. Santa Coloma (Meridiana a Coronel Monasterio),41.44505,2.189782,traffic_section
+486,P. Santa Coloma (Coronel Monasterio a Ronda Litoral),41.44747,2.196662,traffic_section
+487,P. Santa Coloma (Ronda Litoral a Coronel Monasterio),41.44788,2.198148,traffic_section
+49,Carles III (Travessera de les Corts a Pl. Maria Cristina),41.385834,2.127515,traffic_section
+491,Av. Rep. Argentina (Simón Bolívar a Craywinckel),41.41159,2.142811,traffic_section
+5,Diagonal (Pl. Pius XII a Pl. Maria Cristina),41.38756,2.125109,traffic_section
+50,Carles III (Travessera de les Corts a Carrer de Sans),41.378544,2.129323,traffic_section
+501,Ronda de Dalt (Via Júlia a Nus de la Trinitat),41.447227,2.188752,traffic_section
+502,Ronda de Dalt (Nus de la Trinitat a Via Júlia),41.447678,2.189906,traffic_section
+503,Ronda de Dalt (Pl. Karl Marx a Via Júlia),41.443207,2.171384,traffic_section
+504,Ronda de Dalt (Via Júlia a Pl. Karl Marx),41.44318,2.170305,traffic_section
+505,Ronda de Dalt (Av. Estatut de Catalunya a Pl. Karl Marx),41.438934,2.157025,traffic_section
+506,Ronda de Dalt (Pl. Karl Marx a Av. Estatut de Catalunya),41.43926,2.156851,traffic_section
+507,Ronda de Dalt (Av. Jordà a Av. Estatut de Catalunya),41.43433,2.148194,traffic_section
+508,Ronda de Dalt (Av. Estatut de Catalunya a Av. Jordà),41.433857,2.147409,traffic_section
+509,Ronda de Dalt (Pl. d'Alfons Comín a Av. Jordà),41.418324,2.139007,traffic_section
+510,Ronda de Dalt (Av. Jordà a Pl. d'Alfons Comín),41.418056,2.138466,traffic_section
+511,Ronda de Dalt (Bellesguard a Pl. Alfons Comín),41.41315,2.130924,traffic_section
+512,Ronda de Dalt (Pl. Alfons Comín a Bellesguard),41.41335,2.130786,traffic_section
+513,Ronda de Dalt (Foix a Bellesguard),41.406387,2.120852,traffic_section
+514,Ronda de Dalt (Bellesguard a Foix),41.406567,2.120607,traffic_section
+515,Ronda de Dalt (Carretera d'Esplugues a Foix),41.396675,2.111818,traffic_section
+516,Ronda de Dalt (Foix a Carretera d'Esplugues),41.396683,2.111587,traffic_section
+517,Ronda de Dalt (Diagonal a Carretera d'Esplugues),41.38482,2.104336,traffic_section
+518,Ronda de Dalt (Carretera d'Esplugues a Diagonal),41.384876,2.103861,traffic_section
+519,Ronda del Litoral (Passeig de la Zona Franca a Miramar),41.364594,2.16943,traffic_section
+520,Ronda del Litoral (Miramar a Passeig de la Zona Franca),41.365738,2.170143,traffic_section
+521,Ronda del Litoral (Miramar a Pl. dels Voluntaris),41.383774,2.189233,traffic_section
+522,Ronda del Litoral (Pl. dels Voluntaris a Miramar),41.384277,2.19032,traffic_section
+523,Ronda del Litoral (Pl. dels Voluntaris a Bac de Roda),41.39656,2.206862,traffic_section
+524,Ronda del Litoral (Bac de Roda a Pl. dels Voluntaris),41.39617,2.206235,traffic_section
+525,Ronda del Litoral (Bac de Roda a Rambla de Prim),41.406403,2.218344,traffic_section
+526,Ronda del Litoral (Rambla de Prim a Bac de Roda),41.406704,2.218246,traffic_section
+529,Ronda Litoral (Estació de Can Tunis a Passeig de la Zona Franca),41.35104,2.152223,traffic_section
+530,Ronda Litoral (Passeig de la Zona Franca a Estació de Can Tunis),41.344727,2.134145,traffic_section
+531,Ronda Litoral (Gran Via a Potosí),41.43547,2.210209,traffic_section
+532,Ronda Litoral (Potosí a Gran Via),41.434444,2.210398,traffic_section
+533,Ronda Litoral (Potosí a Nus de la Trinitat),41.448154,2.200822,traffic_section
+534,Ronda Litoral (Nus de la Trinitat a Potosí),41.447964,2.20062,traffic_section
+54,Av. Sarrià (Diagonal a Pl. Prat de la Riba),41.391914,2.134458,traffic_section
+57,Ganduxer (Diagonal a Pl. Gregori Tramaturg),41.39286,2.138758,traffic_section
+58,Ganduxer (Pl. Gregori Tramaturg a Via Augusta),41.396236,2.13657,traffic_section
+6,Diagonal (Pl. Maria Cristina a Pl. Pius XII),41.387806,2.125024,traffic_section
+60,Muntaner (Pl. Bonanova a Mitre),41.404884,2.135428,traffic_section
+61,Muntaner (Rda. General Mitre a Via Augusta),41.40108,2.140252,traffic_section
+62,Muntaner (Via Augusta a Diagonal),41.396526,2.146327,traffic_section
+63,Aribau (Diagonal - Via Augusta),41.39723,2.147984,traffic_section
+65,Av. Tibidabo (Balmes a Ronda de Dalt),41.411083,2.136437,traffic_section
+67,Balmes (Mitre a Av. Tibidabo),41.408016,2.138228,traffic_section
+68,Balmes (Mitre a Pl. Molina),41.40284,2.144155,traffic_section
+69,Balmes (Pl. Molina a Mitre),41.40268,2.144603,traffic_section
+7,Diagonal (Pl. Maria Cristina a Numància),41.388817,2.130125,traffic_section
+70,Balmes (Pl. Molina a Travessera de Gràcia),41.3994,2.149979,traffic_section
+71,Balmes (Travessera de Gràcia a Diagonal),41.396652,2.153035,traffic_section
+72,Via Augusta (Mitre a Muntaner),41.398106,2.139683,traffic_section
+73,Via Augusta (Muntaner a Mitre),41.398174,2.13967,traffic_section
+74,Via Augusta (Muntaner a Pl. Molina),41.400524,2.146131,traffic_section
+75,Via Augusta (Pl. Molina a Muntaner),41.40047,2.145845,traffic_section
+8,Diagonal (Numància a Pl. Maria Cristina),41.389057,2.129962,traffic_section
+81,Príncep d'Astúries (Pl. Lesseps a Via Augusta),41.403893,2.150283,traffic_section
+82,Príncep d'Astúries (Via Augusta a Pl. Lesseps),41.403645,2.150425,traffic_section
+83,República Argentina (Craywinckel a Bolívar),41.411526,2.143197,traffic_section
+84,República Argentina (Bolívar a Pl. Lesseps),41.408764,2.147219,traffic_section
+85,Av. Vallcarca (Ronda de Dalt a Esteve Terradas),41.416515,2.14179,traffic_section
+86,Av. Vallcarca (Esteve Terradas a Ronda de Dalt),41.416508,2.14184,traffic_section
+87,Av. Vallcarca (Esteve Terradas a Ballester),41.411552,2.144892,traffic_section
+88,Av. Vallcarca (Pl. Lesseps a Esteve Terradas),41.41022,2.146677,traffic_section
+89,Gran de Gràcia (Pl. Joan Carles I a Travessera de Gràcia),41.39808,2.157716,traffic_section
+9,Diagonal (Entença a Francesc Macià),41.391823,2.141815,traffic_section
+90,Gran de Gràcia (Travessera de Gràcia a Pl. Lesseps),41.403717,2.151953,traffic_section
+91,Passeig de la Bonanova (Via Augusta a Pl. Bonanova),41.40361,2.12809,traffic_section
+92,Passeig de la Bonanova (Pl. Bonanova a Via Augusta),41.403637,2.128024,traffic_section
+93,Passeig de Sant Gervasi (Pl. Bonanova a Balmes),41.408836,2.135012,traffic_section
+94,Passeig de Sant Gervasi (Balmes a Pl. Bonanova),41.40886,2.134898,traffic_section
+95,Craywinckel - República Argentina (Balmes a Pl. Alfonso Comín),41.41231,2.138303,traffic_section
+97,Mitre (Via Augusta a Balmes),41.401096,2.136411,traffic_section
+98,Mitre (Balmes a Via Augusta),41.401283,2.136375,traffic_section
+99,Mitre (Balmes a Pl. Lesseps),41.40554,2.145773,traffic_section

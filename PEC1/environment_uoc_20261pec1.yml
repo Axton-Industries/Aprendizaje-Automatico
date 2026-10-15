@@ -1,0 +1,10 @@
+name: uoc20261pec1
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter=1.1.1
+  - notebook>=7.0,<8.0
+  - python=3.13
+  - folium=0.20.0
+  - fastparquet=2026.5.0
