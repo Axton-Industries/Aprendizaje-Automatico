@@ -1,0 +1,17 @@
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+torch==2.14.1
+sentence-transformers==6.1.0
+laya==0.4.0
+umap-learn==0.5.12
+truststore==0.10.4
+tqdm==4.70.1
+threadpoolctl==3.7.0
+ipython==9.17.1
+jupyterlab==4.6.4
+ipykernel==7.4.0
+nbconvert==7.17.1
+notebook==7.6.3
