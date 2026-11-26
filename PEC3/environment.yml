@@ -12,7 +12,7 @@ dependencies:
   - scikit-learn=1.9
   - matplotlib=3.11
   - seaborn=0.13
-  - shap=0.54
+  - shap=0.52
   - ipykernel
   - jupyterlab
   - nbconvert
